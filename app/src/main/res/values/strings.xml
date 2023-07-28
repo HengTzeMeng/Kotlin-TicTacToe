@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ttt</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
+    <string name="turn">%1$s\'s Turn</string>
+    <string name="winner">%1$s\'s Won</string>
+    <string name="draw">It\'s a Draw</string>
+    <string name="game_over">Game Over</string>
+    <string name="turn_round">Turn Round</string>
+
+</resources>
